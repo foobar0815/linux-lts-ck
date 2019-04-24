@@ -2,11 +2,11 @@
 
 ## Linux kernel version
 
-4.19.35
+4.19.36
 
 ## Purpose
 
-The provided patchset is meant to be applied as a [user patch](https://wiki.gentoo.org/wiki//etc/portage/patches) to gentoo package [sys-kernel/vanilla-sources](https://packages.gentoo.org/packages/sys-kernel/vanilla-sources).
+The provided patchset is intended to be applied as a [user patch](https://wiki.gentoo.org/wiki//etc/portage/patches) to gentoo package [sys-kernel/vanilla-sources](https://packages.gentoo.org/packages/sys-kernel/vanilla-sources).
 
 ## Usage
 
