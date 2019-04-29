@@ -2,7 +2,7 @@
 
 ## Linux kernel version
 
-4.19.36
+4.19.37
 
 ## Purpose
 
